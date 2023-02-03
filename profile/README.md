@@ -1,4 +1,4 @@
-![FOSS@JECC Banner](img/FOSS@JECC.gif)
+![FOSS@JECC Banner](https://github.com/FOSS-JECC/.github/blob/main/profile/img/FOSS%40JECC.gif)
 
 ---
 
